@@ -1,0 +1,7 @@
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\Azure-App-Sandeep.exe
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\Azure-App-Sandeep.dll
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\Azure-App-Sandeep.deps.json
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\Azure-App-Sandeep.runtimeconfig.json
+D:\Sandeep\Learning\Azure\Apps\Azure-App-Sandeep\Azure-App-Sandeep\obj\Release\net8.0\PubTmp\Out\Azure-App-Sandeep.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azure-App-Sandeep.props" />
+</Project>

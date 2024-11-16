@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sandeep\\Learning\\Azure\\Apps\\Azure-App-Sandeep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98470340-253C-46A3-8A73-28F92C988CF1}|Azure-App-Sandeep\\Azure-App-Sandeep.csproj|d:\\sandeep\\learning\\azure\\apps\\azure-app-sandeep\\azure-app-sandeep\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98470340-253C-46A3-8A73-28F92C988CF1}|Azure-App-Sandeep\\Azure-App-Sandeep.csproj|solutionrelative:azure-app-sandeep\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sandeep\\Learning\\Azure\\Apps\\Azure-App-Sandeep\\Azure-App-Sandeep\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Azure-App-Sandeep\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Sandeep\\Learning\\Azure\\Apps\\Azure-App-Sandeep\\Azure-App-Sandeep\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "Azure-App-Sandeep\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T03:09:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

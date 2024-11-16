@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Azure-App-Sandeep/1.0.0": {
+        "runtime": {
+          "Azure-App-Sandeep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azure-App-Sandeep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
